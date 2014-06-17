@@ -4,6 +4,7 @@ Push server
 A sample push server with NodeJS and Socket.io
 
 Installation
+------------
 
 - Clone the repository
 - Within the app folder run the command
