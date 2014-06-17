@@ -1,5 +1,5 @@
-push_server_node_socket_io
-==========================
+Push server
+============
 
 A sample push server with NodeJS and Socket.io
 
