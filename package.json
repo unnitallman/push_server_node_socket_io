@@ -1,0 +1,14 @@
+{
+  "name": "socketio-nodejs-push-server",
+  "version": "1.0.0",
+  "description": "A sample Node-Socket.io app to demonstrate push server",
+  "main": "server.js",
+  "engineStrict": true,
+  "engines": {
+    "node": "0.10.8"
+  },
+
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
