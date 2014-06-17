@@ -7,8 +7,13 @@
   "engines": {
     "node": "0.10.8"
   },
-
   "dependencies": {
     "socket.io": "~0.9.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin git@github.com:unnitallman/push_server_node_socket_io.git"
+  },
+  "author": "Unnikrishnan KP",
+  "license": "MIT"
 }
