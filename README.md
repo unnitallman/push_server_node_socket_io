@@ -5,15 +5,12 @@ A sample push server with NodeJS and Socket.io
 
 Installation
 ------------
+
 1. Clone the repository
 
-2. Within the app folder run the command
+2. Within the app folder run the command ```npm install ```
  
-```npm install ```
-
-3. Start the server by running  
-
-```node server.js```
+3. Start the server by running  ```node server.js```
 
 4. Open http://localhost:3000 in browser
 
